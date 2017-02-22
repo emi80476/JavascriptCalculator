@@ -1,0 +1,40 @@
+body {
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: #00B7FF;
+}
+
+button {
+	text-align: center;
+}
+html, body {
+	height: 100%;
+}
+
+.container {
+	background-color: #ccd6dd;
+	min-height: 100%;
+}
+
+.table {
+	background-color: #0084b4;
+	border: solid;
+	border-radius: 10px;
+	box-shadow: 2px 2px;
+}
+
+#inputBar {
+	border: solid;
+	width: 100%;
+	border-radius: 5px;
+}
+
+#calculator {
+	float: none;
+	margin: 4% auto;
+}
+#equalTo {
+	text-align: center;
+}
